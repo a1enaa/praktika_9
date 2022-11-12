@@ -7,4 +7,4 @@ with open ("Быцань А.И._УБ-23_vvod.txt","r") as file:
 for i in range(n):
     for j in range(m):
         print(A[i][j],end=' ')
-    print()                       # вариант 2 задание 1
+    print()                       # вариант 2 задание 1 и 2
